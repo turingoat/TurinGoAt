@@ -67,7 +67,7 @@ p {
     top: 0;
     }
 
-    .nav-wrapper { 
+    nav .nav-wrapper { 
       padding: 0 10px;
     } <!-- NON FUNZIONA -->
 }
